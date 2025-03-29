@@ -36,7 +36,7 @@ const Home = () => {
               className="flex flex-col gap-5"
             >
               <p className="max-w-md font-normal text-gray-600 text-base">
-              Customize your Plim Mwen and exclusive shirt with our brand-new 3D customization tool. <strong>Unleash your imagination</strong>{" "} and define your own style.
+              Customize your shirt with our brand-new 3D customization tool. <strong>Unleash your imagination</strong>{" "} and define your own style.
               </p>
 
               <CustomButton 
